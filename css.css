@@ -1,0 +1,44 @@
+header {
+    background: #ea5548
+    
+    
+
+}
+
+.midasi{
+    color: #ea5548;
+}
+
+.r{
+    color: #ea5548;
+}
+
+.g{
+    color: #3eb370;
+}
+
+.b{
+    color: #0095d9;
+}
+
+footer {
+    
+    bottom: 0;
+    list-style: none;
+    font-size: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+.dai{
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-top: 3px solid #3f9613;
+    border-bottom: 3px solid #409614;
+    color: #409614;
+    text-align: center;
+}
